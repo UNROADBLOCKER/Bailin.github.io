@@ -106,3 +106,9 @@ input {
         height: 44px;
       }
       /* Searchbar end */
+
+iframe{
+    width: 750;
+    height: 1300;
+    align-items: right;
+}
